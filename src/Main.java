@@ -56,7 +56,6 @@ public class Main {
             System.out.println("The value " + value + " was not found");
         }
 
-
         avg = (double) sum / dataPoints.length;
         System.out.println("The value " + input + " was found " + count + " times");
         System.out.println("The average of the random array dataPoints is: " + avg);
